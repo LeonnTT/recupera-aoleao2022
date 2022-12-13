@@ -10,7 +10,7 @@ body {
 }
 
 header {
-    background: rgb(0, 0, 0);
+    background: rgb(107, 1, 1);
     padding: 20px 0;
 }
 
@@ -161,7 +161,7 @@ table {
 
 thead {
   background: royalblue;
-  color: black;
+  color: rgb(24, 2, 148);
   font-weight: bold;
 }
 
